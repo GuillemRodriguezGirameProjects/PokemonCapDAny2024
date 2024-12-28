@@ -1,0 +1,56 @@
+  Gimnas Calvo
+    Gimnas Panxa
+    Gimnas Monjo
+    Gimnas ACAB
+    Gimnas Niño
+    Gimnas Pan
+    Gimnas Oc.
+    Gimnas Al Vapor
+    Gimnas Humildad.
+    Campió Calvo
+
+
+Textos:
+    Gimnas Calvo
+    Gimnas Panxa
+    Gimnas Monjo
+    Gimnas ACAB
+    Gimnas Niño
+    Gimnas Pan
+    Gimnas Oc.
+    Gimnas Al Vapor
+    Gimnas Humildad.
+    Campió Calvo
+    Ferran
+
+Equip:
+    Gimnas Calvo
+    Gimnas Panxa
+    Gimnas Monjo
+    Gimnas ACAB
+    Gimnas Niño
+    Gimnas Pan
+    Gimnas Oc.
+    Gimnas Al Vapor
+    Gimnas Humildad.
+    Campió Calvo
+
+Gimnàs:
+    Gimnas Calvo
+    Gimnas Panxa
+    Gimnas ACAB
+    Gimnas Niño
+
+Musica:
+    Gimnas Calvo
+    Gimnas Panxa
+    Gimnas Monjo
+    Gimnas ACAB
+    Gimnas Niño
+    Gimnas Pan
+    Gimnas Oc.
+    Gimnas Al Vapor
+    Gimnas Humildad.
+    Campió Calvo
+
+Pokemons OU
