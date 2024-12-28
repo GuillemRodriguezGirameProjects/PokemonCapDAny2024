@@ -1,6 +1,6 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[CAMPER,Liam]
+[BIKER,Liam]
 LoseText = ¡Qué gran combate!
 Pokemon = DIGLETT,10
 Pokemon = BONSLY,11
@@ -118,7 +118,7 @@ Pokemon = CHARIZARD,63
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
 #-------------------------------
-[PARCE,Parce]
+[LEADER_Parce,Parce]
 LoseText = El meu cabell!
 Pokemon = BIBAREL,1
     Gender = male
@@ -169,7 +169,7 @@ Pokemon = DUDUNSPARCE,1
     EV = 0,252,0,0,4,252
     BALL = SUPERBALL
 #-------------------------------
-[SALAH,Salah]
+[LEADER_Salah,Salah]
 LoseText = Ja no tinc tanta panxa!
 Pokemon = TORKOAL,1
     Gender = male
@@ -221,7 +221,7 @@ Pokemon = MAGMORTAR,1
     EV = 0,0,0,252,4,252
     BALL = SUPERBALL
 #-------------------------------
-[EDU,edu]
+[LEADER_Edu,Edu]
 LoseText = I si anem a Savassona?
 Pokemon = BASTIODON,1
     Gender = male
@@ -272,3 +272,104 @@ Pokemon = SUDOWOODO,1
     IV = 31,31,31,31,31,31
     EV = 4,252,252,0,0,0
     BALL = SUPERBALL
+#-------------------------------
+[LEADER_Boixeda,Boixeda]
+LoseText = I si anem a Savassona?
+Pokemon = BASTIODON,1
+    Gender = male
+    Ability = STURDY
+    Item = SITRUSBERRY
+    Moves = STEALTHROCK, SPIKES, ROAR, BODYPRESS
+    IV = 31,31,31,31,31,31
+    EV = 252,0,252,0,4,0
+    BALL = SUPERBALL
+Pokemon = RELICANTH,1
+    Gender = male
+    Ability = STURDY
+    Item = LEFTOVERS
+    Moves = STEALTHROCK, HEADSMASH, LIQUIDATION, TOXIC
+    IV = 31,31,31,31,31,31
+    EV = 252,4,252,0,0,0
+    BALL = SUPERBALL
+Pokemon = PROBOPASS,1
+    Gender = male
+    Ability = SANDSTREAM
+    Item = LEFTOVERS
+    Moves = BODYPRESS, IRONDEFENSE, EARTHPOWER, POWERGEM
+    IV = 31,31,31,31,31,31
+    EV = 252,0,252,0,4,0
+    BALL = SUPERBALL
+Pokemon = RAMPARDOS,1
+    Gender = male
+    Ability = SHEERFORCE
+    Item = CHOICESCARF
+    Moves = ROCKSLIDE, HEADSMASH, ZENHEADBUTT, EARTHQUAKE
+    IV = 31,31,31,31,31,31
+    EV = 4,252,0,0,0,252
+    BALL = SUPERBALL
+Pokemon = LYCANROC,1
+    Form = 2
+    Gender = male
+    Ability = TOUGHCLAWS
+    Item = FOCUSSASH
+    Moves = ACCELEROCK, SWORDSDANCE, STONEEDGE, CLOSECOMBAT
+    IV = 31,31,31,31,31,31
+    EV = 4,252,0,0,0,252
+    BALL = SUPERBALL
+Pokemon = SUDOWOODO,1
+    Gender = male
+    Item = ASSAULTVEST
+    Ability = ADAPTABILITY
+    Moves = EARTHQUAKE, HEADSMASH, WOODHAMMER, DRAINPUNCH
+    IV = 31,31,31,31,31,31
+    EV = 4,252,252,0,0,0
+    BALL = SUPERBALL
+#-------------------------------
+[CHAMPION_Parce,Parce]
+LoseText = AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Items = MEGARING
+Pokemon = KANGASKHAN,1
+    Gender = female
+    Item = KANGASKHANITE
+    Moves = FAKEOUT, SEISMICTOSS, DOUBLEEDGE, DRAINPUNCH
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,0,4,252
+    BALL = MASTERBALL
+Pokemon = ALAKAZAM,1
+    Gender = male
+    Ability = MAGICGUARD
+    Item = FOCUSSASH
+    Moves = HYPNOSIS, RECOVER, PSYCHIC, SHADOWBALL
+    IV = 31,31,31,31,31,31
+    EV = 0,0,0,252,4,252
+    BALL = MASTERBALL
+Pokemon = MEWTWO,1
+    Ability = PRESSURE
+    Item = LEFTOVERS
+    Moves = CALMMIND, RECOVER, PSYSTRIKE, AURASPHERE
+    IV = 31,31,31,31,31,31
+    EV = 252,0,0,252,4,0
+    BALL = MASTERBALL
+Pokemon = SPIRITOMB,100
+    Ability = PRESSURE
+    Item = SITRUSBERRY
+    Moves = WILLOWISP
+    IV = 31,31,31,31,31,31
+    EV = 252,0,4,0,252,0
+    BALL = MASTERBALL
+Pokemon = GYARADOS,1
+    Gender = male
+    Item = WEAKNESSPOLICY
+    Ability = MOXIE
+    Moves = DRAGONDANCE, WATERFALL, EARTHQUAKE, ICEFANG
+    IV = 31,31,31,31,31,31
+    EV = 252,252,0,0,4,0
+    BALL = MASTERBALL
+Pokemon = QUAGSIRE,1
+    Gender = male
+    Item = LEFTOVERS
+    Ability = UNAWARE
+    Moves = YAWN, STEALTHROCK, RECOVER, CHILLINGWATER
+    IV = 31,31,31,31,31,31
+    EV = 252,0,126,0,130,0
+    BALL = MASTERBALL

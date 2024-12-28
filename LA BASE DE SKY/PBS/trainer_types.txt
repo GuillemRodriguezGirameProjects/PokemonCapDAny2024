@@ -400,22 +400,36 @@ BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
 #-------------------------------
-[PARCE]
+[LEADER_Parce]
 Name = Lider Calvo
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
 #-------------------------------
-[SALAH]
+[LEADER_Salah]
 Name = Lider Panxa
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
 #-------------------------------
-[EDU]
+[LEADER_Edu]
 Name = Lider Monjo
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Champion
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Boixeda]
+Name = Lider Monjo
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Champion
+VictoryBGM = Battle victory leader
+#-------------------------------
+[CHAMPION_Parce]
+Name = Campió Calvo
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
