@@ -518,7 +518,7 @@ Generation = 8
 WildItemUncommon = MISTYSEED
 #-------------------------------
 [KANGASKHAN,1]
-FormName = Mega Kangaskhan
+FormName = Jordi i Parce
 MegaStone = KANGASKHANITE
 BaseStats = 105,125,100,100,60,100
 BaseExp = 207
@@ -2871,4 +2871,3 @@ Height = 1.7
 Weight = 77.0
 Shape = Head
 Pokedex = Un Dudunsparce criat per acceptar el poder de la calvicie i ara s'ha tornat imparable
-

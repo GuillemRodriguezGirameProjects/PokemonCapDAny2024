@@ -119,7 +119,7 @@ Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
 #-------------------------------
 [LEADER_Parce,Parce]
-LoseText = El meu cabell!
+LoseText = Em pots tornar amb cotxe a casa porfa?
 Pokemon = BIBAREL,1
     Gender = male
     Ability = MOODY
@@ -170,7 +170,7 @@ Pokemon = DUDUNSPARCE,1
     BALL = SUPERBALL
 #-------------------------------
 [LEADER_Salah,Salah]
-LoseText = Ja no tinc tanta panxa!
+LoseText = Ets un racista.
 Pokemon = TORKOAL,1
     Gender = male
     Ability = DROUGHT
@@ -222,7 +222,7 @@ Pokemon = MAGMORTAR,1
     BALL = SUPERBALL
 #-------------------------------
 [LEADER_Edu,Edu]
-LoseText = I si anem a Savassona?
+LoseText = Bueno m'he deixat guanyar perquè sinó s'acaba el joc aquí i en RO ha programat bastantes hores i estaría lleig.
 Pokemon = BASTIODON,1
     Gender = male
     Ability = STURDY
@@ -274,7 +274,7 @@ Pokemon = SUDOWOODO,1
     BALL = SUPERBALL
 #-------------------------------
 [LEADER_Boixeda,Boixeda]
-LoseText = I si anem a Savassona?
+LoseText = Xamfaina.
 Pokemon = HITMONCHAN,1
     Gender = male
     Ability = IRONFIST
@@ -325,7 +325,7 @@ Pokemon = SCRAFTY,1
     BALL = SUPERBALL
 #-------------------------------
 [LEADER_Abel,Abel]
-LoseText = I si anem a Savassona?
+LoseText = Així tractes a un bebé?
 Pokemon = XATU,1
     Gender = male
     Ability = MAGICBOUNCE
@@ -342,7 +342,7 @@ Pokemon = GALLADE,1
     IV = 31,31,31,31,31,31
     EV = 0,252,0,0,4,252
     BALL = SUPERBALL
-Pokemon = WOBBUFET,1
+Pokemon = WOBBUFFET,1
     Gender = female
     Ability = SHADOWTAG
     Item = LEFTOVERS
@@ -376,7 +376,7 @@ Pokemon = REUNICLUS,1
     BALL = SUPERBALL
 #-------------------------------
 [LEADER_Ro,Ro]
-LoseText = I si anem a Savassona?
+LoseText = Perdona que he tingut que anar a buscar el pa a mig combat, de totes maneres ha estat molt top.
 Pokemon = GALVANTULA,1
     Gender = male
     Ability = COMPOUNDEYES
@@ -409,7 +409,7 @@ Pokemon = LUXRAY,1
     IV = 31,31,31,31,31,31
     EV = 0,252,0,0,4,252
     BALL = SUPERBALL
-Pokemon = ELECTRIVIRE,1
+Pokemon = ELECTIVIRE,1
     Gender = male
     Ability = VITALSPIRIT
     Item = EXPERTBELT
@@ -428,7 +428,7 @@ Pokemon = ROTOM,1
     BALL = SUPERBALL
 #-------------------------------
 [LEADER_Guiu,Guiu]
-LoseText = I si anem a Savassona?
+LoseText = Vale si oc.
 Pokemon = SHIFTRY,1
     Gender = male
     Ability = WINDRIDER
@@ -479,7 +479,7 @@ Pokemon = UMBREON,1
     BALL = SUPERBALL
 #-------------------------------
 [LEADER_Adri,Adri]
-LoseText = I si anem a Savassona?
+LoseText = Nooo m'has matat al Quercus Ilex.
 Pokemon = LEAFEON,1
     Gender = male
     Ability = CHLOROPHYLL
@@ -530,7 +530,7 @@ Pokemon = TREVENANT,1
     BALL = SUPERBALL
 #-------------------------------
 [LEADER_Erra,Erra]
-LoseText = I si anem a Savassona?
+LoseText = Nooooooo mai havia perdut segur que has fet trampes!
 Pokemon = TENTACRUEL,1
     Gender = male
     Ability = DRIZZLE
@@ -582,7 +582,7 @@ Pokemon = CRAWDAUNT,1
     BALL = SUPERBALL
 #-------------------------------
 [CHAMPION_Parce,Parce]
-LoseText = AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+LoseText = JORDI NOOOOOOOOOOO!
 Items = MEGARING
 Pokemon = KANGASKHAN,1
     Gender = female
