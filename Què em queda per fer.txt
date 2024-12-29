@@ -1,13 +1,13 @@
-  Gimnas Calvo
-    Gimnas Panxa
-    Gimnas Monjo
-    Gimnas ACAB
-    Gimnas Niño
-    Gimnas Pan
-    Gimnas Oc.
-    Gimnas Al Vapor
-    Gimnas Humildad.
-    Campió Calvo
+Gimnas Calvo
+Gimnas Panxa
+Gimnas Monjo
+Gimnas ACAB
+Gimnas Niño
+Gimnas Pan
+Gimnas Oc.
+Gimnas Al Vapor
+Gimnas Humildad.
+Campió Calvo
 
 
 Textos:
@@ -23,6 +23,19 @@ Textos:
     Campió Calvo
     Ferran
 
+Sprites:
+    Gimnas Calvo
+    Gimnas Panxa
+    Gimnas Monjo
+    Gimnas ACAB
+    Gimnas Niño
+    Gimnas Pan
+    Gimnas Oc.
+    Gimnas Al Vapor
+    Gimnas Humildad.
+    Campió Calvo
+        mega KANGASKHAN amb la cara d'en Jordi i en Parce
+
 Equip:
     Gimnas Calvo
     Gimnas Panxa
@@ -34,12 +47,6 @@ Equip:
     Gimnas Al Vapor
     Gimnas Humildad.
     Campió Calvo
-
-Gimnàs:
-    Gimnas Calvo
-    Gimnas Panxa
-    Gimnas ACAB
-    Gimnas Niño
 
 Musica:
     Gimnas Calvo

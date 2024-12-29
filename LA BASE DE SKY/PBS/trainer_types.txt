@@ -422,7 +422,42 @@ BattleBGM = Battle Champion
 VictoryBGM = Battle victory leader
 #-------------------------------
 [LEADER_Boixeda]
-Name = Lider Monjo
+Name = Lider ACAB
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Champion
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Abel]
+Name = Lider Niño
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Champion
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Ro]
+Name = Lider Pan
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Champion
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Guiu]
+Name = Lider Oc.
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Champion
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Adri]
+Name = Lider Al Vapor
+Gender = Male
+BaseMoney = 100
+BattleBGM = Battle Champion
+VictoryBGM = Battle victory leader
+#-------------------------------
+[LEADER_Erra]
+Name = Lider Humildad
 Gender = Male
 BaseMoney = 100
 BattleBGM = Battle Champion
