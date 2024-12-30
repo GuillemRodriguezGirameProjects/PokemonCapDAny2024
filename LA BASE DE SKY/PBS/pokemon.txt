@@ -946,7 +946,7 @@ WildItemUncommon = MOONSTONE
 [VULPIX]
 Name = Vulpix
 Types = FIRE
-BaseStats = 38,41,40,65,50,65
+BaseStats = 50,41,170,65,50,150
 GenderRatio = Female75Percent
 GrowthRate = Medium
 BaseExp = 60
